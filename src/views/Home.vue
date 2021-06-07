@@ -88,6 +88,10 @@ ul {
   background-color: lightgray;
   text-align: center;
 }
+.BookItem .meta span {
+  color: #42b983;
+  font-weight: bold;
+}
 </style>
 
 <script lang="ts">
