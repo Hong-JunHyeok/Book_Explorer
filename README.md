@@ -12,6 +12,9 @@
 - 검색 화면
   ![image](https://user-images.githubusercontent.com/48292190/121001576-63fe6300-c7c6-11eb-9514-dfb4cc880ba7.png)
 
+- 프로젝트에 대해서...
+  ![image](https://user-images.githubusercontent.com/48292190/121004434-a5444200-c7c9-11eb-93dd-d3505828fde0.png)
+
 # 🔥 더 추가할 기능...
 
 - 책 상세보기 페이지
