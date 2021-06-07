@@ -1,24 +1,5 @@
-# book_explorer
+# Book Explorer
 
-## Project setup
-```
-yarn install
-```
+원하는 책의 정보를 검색해보세요!
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> 대구소프트웨어 고등학교 2학년 웹프로그래밍 과제입니다.
