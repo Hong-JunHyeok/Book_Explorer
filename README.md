@@ -15,3 +15,8 @@
 ![image](https://user-images.githubusercontent.com/48292190/120959402-a27b2a00-c794-11eb-87b1-daacb5e36319.png)
 
 그러면 이제 Kakao API를 사용할 준비가 되었습니다.
+
+
+PostMan을 사용해서 Kakao API를 사용한 예제입니다.
+
+![image](https://user-images.githubusercontent.com/48292190/120970470-71a3f080-c7a6-11eb-9495-785146e8f911.png)
