@@ -1,15 +1,24 @@
 <template>
-  <div class="home"></div>
+  <div class="home">
+    <input type="text" v-model="input" placeholder="책 검색을 해보세요!" />
+    {{ input }}
+    <BookItem />
+  </div>
 </template>
 
 <script lang="ts">
-import { Component, Vue } from "vue-property-decorator";
-import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
+/* eslint-disable */
+import BookItem from "../components/BookItem.vue";
 
-@Component({
+export default {
+  name: "Home",
   components: {
-    HelloWorld,
+    BookItem,
   },
-})
-export default class Home extends Vue {}
+  data() {
+    return {
+      input: "",
+    };
+  },
+};
 </script>
