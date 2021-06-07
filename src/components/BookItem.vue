@@ -1,9 +1,13 @@
 <template>
-  <div>Book 컴포넌트</div>
+  <div>{{ title }}</div>
 </template>
 
 <script>
-export default {};
+export default {
+  props: {
+    title: String,
+  },
+};
 </script>
 
 <style >
