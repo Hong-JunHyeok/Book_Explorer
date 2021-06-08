@@ -15,10 +15,8 @@
 - 프로젝트에 대해서...
   ![image](https://user-images.githubusercontent.com/48292190/121004434-a5444200-c7c9-11eb-93dd-d3505828fde0.png)
 
-# 🔥 더 추가할 기능...
-
-- 책 상세보기 페이지
-- 도서 상세 URL을 연결
+- 책 상세보기
+  ![image](https://user-images.githubusercontent.com/48292190/121121245-2ba86480-c85a-11eb-89e1-5cb5b2d5d643.png)
 
 # 🟡 Kakao API 연동
 
