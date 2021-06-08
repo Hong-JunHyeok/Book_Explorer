@@ -11,7 +11,7 @@
         v-bind:key="bookItem.idsn"
       />
     </ul>
-    <h1 v-if="books.length === 0">위 검색창으로 책을 탐색해보세요</h1>
+    <h1 v-if="books.length === 0">검색된 결과가 없습니다.</h1>
   </div>
 </template>
 
