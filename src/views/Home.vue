@@ -4,8 +4,12 @@
       <input type="text" v-model="input" placeholder="책 검색을 해보세요!" />
       <button @click="getBookAPI">검색</button>
     </div>
-    <ul v-for="bookItem in this.books" v-bind:key="bookItem.idsn">
-      <BookItem :bookItem="bookItem" />
+    <ul>
+      <BookItem
+        :bookItem="bookItem"
+        v-for="bookItem in this.books"
+        v-bind:key="bookItem.idsn"
+      />
     </ul>
     <h1 v-if="books.length === 0">위 검색창으로 책을 탐색해보세요</h1>
   </div>
